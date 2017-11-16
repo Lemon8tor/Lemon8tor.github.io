@@ -1,0 +1,28 @@
+header{
+    text-align: center;  
+}
+
+
+h1{
+    color: #fdfdfd;
+    font-family: Oswald;
+    font-size: 7em;
+}
+h2, h3{
+    color: rgb(0, 89, 121);
+    font-family: Montserrat;
+    text-align: center;
+}
+body{
+    background-color: #00c3ff;
+}
+header {
+    background-image: url("images/SKY.jpg");
+    background-size: cover;
+
+}
+article {
+    max-width: 550px;
+    padding: 10px;
+    margin: 0 auto;
+}
