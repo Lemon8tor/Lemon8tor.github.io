@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+    <head>
+      <title>Austin's Website </title>
+      <link href="app.css" rel="stylesheet"/> <link href="https://fonts.googleapis.com/css?family=Montserrat|Oswald" rel="stylesheet">
+            <meta charset="utf-8">
+           </head>
+        <body>
+            <header>
+               
+                <img src="images/ME.jpg"width=150>
+                <h1>Austin's Website</h1>
+                <a href="MyFuture">My Future</a>
+            </header>
+             
+            <article>
+            <h2>My Family </h2>
+             
+            <p> My family is the coolest, there is 4 members of my family. There is my Mom, my Dad, My sister Allison, and Me. We go camping all the time in our motorhome. We all care about each other very much.
+            </p>
+    
+            <img src="images/FAMILY.jpg"width=250>
+            <h2>Intrests</h2>
+            <p> One of my Intrests is music. It takes me away and makes me forget my problems. My favorite type of music is Rock and I only listen to music form the 70's, 80's, and 90's.
+                Another one of my intrests is video games. I have a ps4 which is really fun.   
+            </p>
+            <img src="images/MUSIC.jpg"width=250>
+        
+            <h2>Hobbies</h2>
+        <p>Some of my hobbies are ridings quads and watching movies. Some of my favorite movies are Tommy Boy and IT. the quad I have is a 400 Suzuki Quad. It goes really fast and it is fun to ride around in Glamis. 
+        </p>
+
+        <h2> Skills </h2>
+        <p>One of my skills is memory. I can remember some crazy stuff.  
+        </p>
+        </article>
+     </body>
+     
+</html>
