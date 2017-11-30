@@ -7,16 +7,16 @@
            </head>
         <body>
             <header>
-               
+                
                 <img src="images/ME.jpg"width=150>
                 <h1>Austin's Website</h1>
-                <a href="MyFuture">My Future</a>
+                <a href="My Future">My Future</a>
             </header>
              
             <article>
             <h2>High School  </h2>
              
-            <p> I want to go to Lakewood High School and join HOSM and ROTC. Almost all my friends are going to Lakewood  
+            <p> I want to go to Lakewood High School and join HOSM and ROTC. Almost all my friends are going to Lakewood 
             </p>
     
             <img src="images/FAMILY.jpg"width=250>
